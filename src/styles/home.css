@@ -1,0 +1,22 @@
+
+.home-container {
+    display: flex;
+    
+  }
+  
+  .left-column {
+    width: 30%;
+  }
+  
+  .logo {
+    width: 150%;
+    max-width: 500px; 
+    margin-top: 20px;
+    
+  }
+  
+  .right-column {
+    width: 70%;
+  }
+  
+  
